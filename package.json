@@ -1,7 +1,7 @@
 {
-  "name": "solarmy-collection-game-frontend",
+  "name": "degentaxi-game-frontend",
   "version": "0.1.0",
-  "author": "sasuke0601",
+  "author": "0xmax9999",
   "private": true,
   "scripts": {
     "dev": "next dev",
